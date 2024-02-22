@@ -1,14 +1,24 @@
 body {
     background-color: #f0f0f0; /* cor gelo */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* nova fonte */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*Robote*/
+
+    margin: 0;
+    padding: 0;
+
 }
+
 
 .container {
     width: 80%;
     margin: 0 auto;
     padding: 20px;
+    text-align: center;
+
 }
 
 .green {
-    color: green; /* cor verde */
+    color: green; /*cor verde*/
+    text-align: center;
+    padding: 10px;
+
 }
