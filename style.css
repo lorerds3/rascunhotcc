@@ -1,38 +1,39 @@
 body {
-    background-color: red; /* vermelho */
-    color: blue; /* azul */
-    font-family: Arial, Georgia, 'Times New Roman', Times, serif;
-    margin: 0;
-    padding: 0;
 
-     }
+    font-family: Arial, sans-serif;
+    
+    margin: 0;
+    
+    padding: 0;
+    
+    }
     
     header {
     
-    background-color: #100935;
+    background-color: #a82c2c33;
     
-    color: #a71414;
+    color: #0f0d0d;
     
     padding: 10px;
     
-    text-align:Right;
+    text-align: center;
     
     }
     
     main {
     
-    padding: 70px;
+    padding: 20px;
     
     }
     
     footer {
     
-    background-color: #100935;
+    background-color: #490909;
     
-    color: #a71414;
+    color: #0e0d0d;
     
-    text-align:Right;
+    text-align: center;
     
-    padding: 90px;
+    padding: 10px;
     
     }
