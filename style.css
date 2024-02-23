@@ -35,6 +35,19 @@ img {
     }
 
 
+    h2{
+    
+        background-color: rgb(239, 240, 227);
+        
+        color: #0d0c0c;
+        
+        padding: 10px;
+        
+        text-align: center;
+        
+        }
+    
+
     p {
     
         background-color: rgb(239, 240, 227);
