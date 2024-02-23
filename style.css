@@ -1,39 +1,43 @@
-body {
+> html {*** 
 
-    font-family: Arial, sans-serif;
-    
-    margin: 0;
-    
-    padding: 0;
-    
-    }
-    
-    header {
-    
-    background-color: #a82c2c33;
-    
-    color: #0f0d0d;
-    
-    padding: 10px;
+} 
+table, th, td { 
+
+    border:1px solid black;
+
+} p{ } font-family: Arial, Helvetica, sans-serif;
+
+#imagem { 
     
     text-align: center;
+
+} 
+
+caption { 
     
-    }
+    font-size: 20px;
     
-    main {
-    
-    padding: 20px;
-    
-    }
-    
-    footer {
-    
-    background-color: #490909;
-    
-    color: #0e0d0d;
+    color: black; 
     
     text-align: center;
-    
-    padding: 10px;
-    
-    }
+
+} 
+
+td { text-align: center;
+     font-weight: bold;
+      color: #c26861;
+       #colorA { 
+        color: #006600;
+         font-size: 18;
+         } 
+         #colorB { 
+            color: #0000ff; 
+            font-size: 18;
+
+         } 
+         
+         figcaption{ 
+
+         } figure img { border-radius: 50%;
+
+         } 
