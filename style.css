@@ -88,17 +88,18 @@ img {
     
     padding: 40px;
     
-    .bord {
-        width: 320px;
-        padding: 10px;
-        border: 5px solid gray;
-        margin: auto;
     }
-    
+
+
+#colorA {
+    color: #006600;
+    font-size: 18;
+    padding: 0,5%;
+
 }
 
 #legend {
-    padding:1%;
+    padding:0,5%;
 }
 
 
