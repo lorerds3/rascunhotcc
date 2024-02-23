@@ -1,6 +1,6 @@
 body {
 
-    font-family: Arial, sans-serif;
+    font-family: Arial, 'Times New Roman', Times, serif;
     
     margin: 0;
     
@@ -10,7 +10,7 @@ body {
     
     header {
     
-    background-color: #3333;
+    background-color: #971a1a33;
     
     color: #fff;
     
@@ -28,7 +28,7 @@ body {
     
     footer {
     
-    background-color: #333;
+    background-color: #c21616;
     
     color: #fff;
     
