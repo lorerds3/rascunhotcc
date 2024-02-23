@@ -10,8 +10,8 @@ p{
 }    
 
 img {
-    border-radius: 50%;
-    text-align: center;
+    border-radius: 70%;
+    border-image-width: 50;
 
 }
 
