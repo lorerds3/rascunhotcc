@@ -8,18 +8,11 @@ p{
     
     padding: 0;
 }    
-    
 
-figcaption{
-    background-color: black;
-    color: white;
-    font-style: italic;
-    margin: auto;
-    text-align: center;
-}
-
-figure img {
+img {
     border-radius: 50%;
+    text-align: center;
+
 }
 
     
