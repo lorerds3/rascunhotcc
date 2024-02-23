@@ -60,13 +60,25 @@ img {
         
         }
 
-        img {
+        img-destaque {
             height: 300px;
             width: 700px;
           }
 
 
-    
+
+          {
+            img
+            height: 300px;
+            width: 300px;
+          }
+
+
+
+
+
+
+
     main {
     
     padding: 10px;
