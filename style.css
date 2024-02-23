@@ -9,18 +9,14 @@ p{
     padding: 0;
 }    
 
-    div {
-        width: 500px;
-        height: 200px;
-        overflow: hidden; /* Faz o div não aumentar a altura por causa da imagem */
-    }
-    
-    img {
-        border: 1px solid red;
-        width: 100%;
-    }
+img {
+    border-radius: 5%;
 
+    border-image-width: 50;
 
+    text-align: center;
+
+}
 
     
     header {
